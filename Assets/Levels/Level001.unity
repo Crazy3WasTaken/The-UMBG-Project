@@ -1413,6 +1413,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 6451173183792993421, guid: b07b1633f591a4b11b4de3b7823df746, type: 3}
+      propertyPath: m_Color.a
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6451173184717616169, guid: b07b1633f591a4b11b4de3b7823df746, type: 3}
+      propertyPath: m_Color.a
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6451173184717616171, guid: b07b1633f591a4b11b4de3b7823df746, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6451173184756970057, guid: b07b1633f591a4b11b4de3b7823df746, type: 3}
+      propertyPath: m_Color.a
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b07b1633f591a4b11b4de3b7823df746, type: 3}
 --- !u!1001 &6686070469526877014
